@@ -45,7 +45,7 @@ How to Run
    If you’re using Git, clone the repository to your local machine:
 
    git clone https://github.com/yourusername/test-data-generator.git
-   cd test-data-generator
+   cd Test_Data_Generator
 
 2. Run the Script:
 
@@ -94,7 +94,3 @@ random.person3@company.net
 You’ll be prompted to save the data to a CSV file, like test_data.csv.
 
 ---
-
-License
-
-MIT License
